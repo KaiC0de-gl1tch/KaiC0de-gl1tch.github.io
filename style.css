@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    background-color: silver;
+  }
+  h1{
+    text-align: center
+  }
+  h1{
+    color: #0845d4
+  }
+  a{
+    color: gold
+  }
